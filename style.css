@@ -3,8 +3,8 @@ body{
     text-align: center;
 }  
 h1{
-    color: darkmagenta;
+    color: rgb(255, 0, 0);
 }
 h2{
-    color: blueviolet;
+    color: rgb(0, 0, 0);
 }
